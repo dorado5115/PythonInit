@@ -11,3 +11,5 @@ print(y)
 m = 5.50 + 6.62
 
 print(m)
+
+print(f"Este es x = {x}, este es y = {y} este es m = {m}")
