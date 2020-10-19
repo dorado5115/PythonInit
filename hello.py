@@ -7,3 +7,7 @@ print(x)
 y = "Holaa y Adios" #branch Test
 
 print(y)
+
+m = 5.50 + 6.62
+
+print(m)
