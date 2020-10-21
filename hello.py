@@ -18,3 +18,6 @@ print(m)
 #Se imprime los 3 datos
 print(f"Este es x = {x}, este es y = {y} este es m = {m}")
 
+for m in range(5):
+    print(x)
+
