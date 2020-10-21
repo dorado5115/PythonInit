@@ -23,3 +23,6 @@ for m in range(5):
 
 for x in range(4):
     print(m)
+
+    for x in range(2):
+        print(y)
